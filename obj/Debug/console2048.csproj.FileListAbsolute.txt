@@ -1,0 +1,7 @@
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\console2048\console2048\bin\Debug\console2048.exe.config
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\console2048\console2048\bin\Debug\console2048.exe
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\console2048\console2048\bin\Debug\console2048.pdb
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\console2048\console2048\obj\Debug\console2048.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\console2048\console2048\obj\Debug\console2048.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\console2048\console2048\obj\Debug\console2048.exe
+C:\Users\Marcin\Documents\Visual Studio 2017\Projects\console2048\console2048\obj\Debug\console2048.pdb
